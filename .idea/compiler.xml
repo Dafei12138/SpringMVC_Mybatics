@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="smm_admin" />
+        <module name="smm_api" />
+        <module name="smm_common" />
+        <module name="smm_data" />
+        <module name="smm_web" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="smm_admin" target="1.7" />
+      <module name="smm_api" target="1.5" />
+      <module name="smm_common" target="1.5" />
+      <module name="smm_data" target="1.5" />
+      <module name="smm_web" target="1.7" />
+      <module name="SpringMVC_Mybatics" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

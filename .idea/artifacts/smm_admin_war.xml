@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="smm_admin:war">
+    <output-path>$PROJECT_DIR$/smm_admin/target</output-path>
+    <root id="archive" name="springmvc_mybatics_web.war">
+      <element id="artifact" artifact-name="smm_admin:war exploded" />
+    </root>
+  </artifact>
+</component>
